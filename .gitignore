@@ -1,0 +1,27 @@
+# For a list of other useful .gitignore templates, view more here: https://github.com/github/gitignore
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Python related files
+*.pyc
+
+# =========================
+# Operating System Files
+# =========================
+
+# IDE files
+.idea
+.vscode/
+
+# Ignore all files with 3 underscores
+___*.py
+___*.*
+___*
